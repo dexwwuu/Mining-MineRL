@@ -6,3 +6,5 @@ Can we predict a future action or state given the current and previous states?
 Can we categorize players into different groups based on their behavior in an unsupervised way?
 
 This Google Colab notebook covers my portion of the project where I used a Random Forest and XGBoost model to determine if it is possible to predict player state-actions.
+
+Download the dataset from the website in the about to run the code in Colab.
